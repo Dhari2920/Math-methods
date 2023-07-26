@@ -1,2 +1,2 @@
 # Math-methods
-This contins math methods with examples
+This contains math methods with examples
